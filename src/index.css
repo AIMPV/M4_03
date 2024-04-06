@@ -1,0 +1,6 @@
+html, body {
+  min-height: 100%;
+}
+body {
+  background: linear-gradient(144deg, rgba(44, 166, 27, 0.4), rgba(36, 239, 41, 0.2));
+}
